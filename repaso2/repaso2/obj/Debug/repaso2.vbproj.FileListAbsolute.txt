@@ -1,0 +1,12 @@
+C:\DIEGO ASHER 25121\repaso2\repaso2\bin\Debug\repaso2.exe.config
+C:\DIEGO ASHER 25121\repaso2\repaso2\bin\Debug\repaso2.exe
+C:\DIEGO ASHER 25121\repaso2\repaso2\bin\Debug\repaso2.pdb
+C:\DIEGO ASHER 25121\repaso2\repaso2\bin\Debug\repaso2.xml
+C:\DIEGO ASHER 25121\repaso2\repaso2\obj\Debug\repaso2.vbprojAssemblyReference.cache
+C:\DIEGO ASHER 25121\repaso2\repaso2\obj\Debug\repaso2.Form1.resources
+C:\DIEGO ASHER 25121\repaso2\repaso2\obj\Debug\repaso2.Resources.resources
+C:\DIEGO ASHER 25121\repaso2\repaso2\obj\Debug\repaso2.vbproj.GenerateResource.cache
+C:\DIEGO ASHER 25121\repaso2\repaso2\obj\Debug\repaso2.vbproj.CoreCompileInputs.cache
+C:\DIEGO ASHER 25121\repaso2\repaso2\obj\Debug\repaso2.exe
+C:\DIEGO ASHER 25121\repaso2\repaso2\obj\Debug\repaso2.xml
+C:\DIEGO ASHER 25121\repaso2\repaso2\obj\Debug\repaso2.pdb
