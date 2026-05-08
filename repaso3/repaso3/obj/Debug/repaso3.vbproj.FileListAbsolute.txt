@@ -1,0 +1,11 @@
+C:\DIEGO ASHER 25121\repaso3\repaso3\bin\Debug\repaso3.exe.config
+C:\DIEGO ASHER 25121\repaso3\repaso3\bin\Debug\repaso3.exe
+C:\DIEGO ASHER 25121\repaso3\repaso3\bin\Debug\repaso3.pdb
+C:\DIEGO ASHER 25121\repaso3\repaso3\bin\Debug\repaso3.xml
+C:\DIEGO ASHER 25121\repaso3\repaso3\obj\Debug\repaso3.Form1.resources
+C:\DIEGO ASHER 25121\repaso3\repaso3\obj\Debug\repaso3.Resources.resources
+C:\DIEGO ASHER 25121\repaso3\repaso3\obj\Debug\repaso3.vbproj.GenerateResource.cache
+C:\DIEGO ASHER 25121\repaso3\repaso3\obj\Debug\repaso3.vbproj.CoreCompileInputs.cache
+C:\DIEGO ASHER 25121\repaso3\repaso3\obj\Debug\repaso3.exe
+C:\DIEGO ASHER 25121\repaso3\repaso3\obj\Debug\repaso3.xml
+C:\DIEGO ASHER 25121\repaso3\repaso3\obj\Debug\repaso3.pdb
